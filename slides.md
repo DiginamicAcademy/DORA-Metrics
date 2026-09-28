@@ -5,6 +5,7 @@ style: |
   section {background-color: #121114}
   h1,h2,h3 {color: #8393f0}
   p,ul,li,td,th {color: #ccc}
+  section table {font-size: 0.85em}
   section table td {background-color: #121114}
   section table th {background-color: #272133; font-weight: bolder}
   pre {background-color: #17151a; color: #ccc}
