@@ -1,0 +1,14 @@
+course:
+  name: "DORA : Mesurer la performance de livraison logicielle"
+  RNCP:
+    - RNCP40573
+  RNCPBloc:
+    - RNCP40573BC06
+  timing: 2
+
+credits:
+  authors:
+    - name: Jean-François Vial
+      github:
+        - JeffDiginamic
+        - j33f
